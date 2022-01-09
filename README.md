@@ -6,6 +6,7 @@ Originally, I have recorded a audio dataset for a speaker classification project
 The chances of getting wrong prediction is relatively high. So there can be only two possible reasons：
 1. Bad model structure.
 2. Bad quatity or bad quality dataset.
+
 After some research on another similar audio classification projects, I assume my problem is tend to be a bad dataset.
 So, this is small project is to test whether is it the model structure or poor quality data in the dataset casuing the miss prediction.
 
