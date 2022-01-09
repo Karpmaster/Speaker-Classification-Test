@@ -9,7 +9,7 @@ import tensorflow as tf
 FILE_PATH = 'Nel_777.wav'
 MODEL_PATH = 'trained_model'
 SAMPLE_RATE = 22050
-DURATION = 1  # sec。最後都是一樣的規格長度
+DURATION = 1  # sec。
 SAMPLES_PER_TRACK = SAMPLE_RATE * DURATION
 accuracy_threshold = 0.8
 
