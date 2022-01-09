@@ -9,7 +9,7 @@ JSON_PATH = "dataset_output.json"
 COUNT_PATH = "count_users.txt"
 
 SAMPLE_RATE = 22050
-DURATION = 1  # sec。最後都是一樣的規格長度
+DURATION = 1  # sec
 SAMPLES_PER_TRACK = SAMPLE_RATE * DURATION
 
 
