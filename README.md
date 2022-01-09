@@ -18,3 +18,7 @@ Public datset source: https://www.kaggle.com/kongaevans/speaker-recognition-data
 I designed a CNN model with tensorflow. Using Librosa to extract the MFCC features. And output as a json file.
 Split the data in the json file into train, validation, test sets for a cross validation later on.
 The pridiction print output includes all similarity percentage of each class. And will choose the highest percentage index.
+
+# Result
+Surprisingly, I got really good result getting all the right indexes with the original model structure but with public dataset.
+Conclude that it is my dataset casusing the problem.
