@@ -21,4 +21,4 @@ The pridiction print output includes all similarity percentage of each class. An
 
 # Result
 Surprisingly, I got really good result getting all the right indexes with the original model structure but with public dataset.
-Conclude that it is my dataset casusing the problem.
+Conclude that it is my dataset causing the problem.
